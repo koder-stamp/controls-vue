@@ -1,4 +1,4 @@
-# hello-world
+# Controls for vue.js
 
 ## Project setup
 ```
